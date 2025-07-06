@@ -1,11 +1,6 @@
----
-title: Privacy Policy
-layout: default
----
-
 # Privacy Policy
 
-**Effective Date:** _[Insert Date]_
+**Effective Date:** 6th July 2025
 
 Thank you for using our app. Your privacy is important to us, and we are committed to being transparent about how we handle your data.
 
@@ -52,4 +47,4 @@ By using this app, you consent to the data practices outlined in this policy.
 
 If you have any questions or concerns, please reach out:
 
-📧 [Insert your support email]
+📧 carlosnoblejesus@gmail.com
