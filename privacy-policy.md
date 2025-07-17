@@ -24,9 +24,9 @@ When you use the app to identify landmarks:
 
 ## 3. Usage & Diagnostic Data
 
-- We may collect **anonymous crash reports and diagnostic data** through Apple or third-party tools.
-- This helps us improve app performance and user experience.
-- No personal content (images, locations, etc.) is included in this data.
+- We do not currently collect any usage or diagnostic data.
+- We reserve the right to start collecting usage or diagnostic data for the sole purpose of product development and support. However, if we do so, no personal content (images, locations, etc.) would be included in this data.
+- Any changes in this policy will be updated in our App Store listing.
 
 ---
 
