@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** 6th July 2025
+**Effective Date:** 18th July 2025
 
 Thank you for using our app. Your privacy is important to us, and we are committed to being transparent about how we handle your data.
 
